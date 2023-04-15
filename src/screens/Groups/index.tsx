@@ -6,7 +6,7 @@ import { useState } from 'react';
 import { FlatList } from 'react-native';
 
 export function Groups() {
-  const [groups, setGroups] = useState<string[]>(['Galera da Rocketseat']);
+  const [groups, setGroups] = useState<string[]>([]);
 
   return (
       <Container>
