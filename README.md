@@ -10,5 +10,5 @@ Jogar futebol no final de semana.
 
 ## Princípios importantes utilizados para criar as interfaces
 
-Design System
-Style Guide
+- Design System
+- Style Guide
